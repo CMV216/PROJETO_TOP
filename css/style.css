@@ -154,7 +154,7 @@
     }
   }
 
-/*resoonsividade mobile*/
+/*responsividade mobile*/
 @media (width <= 500px){
     nav{
         display: flex;
